@@ -63,3 +63,12 @@ This is a Chess Tournament Management System built using Node.js and PostgreSQL.
 
 API endpoints and their usage are documented in the `Chess Tournament API.postman_collection.json` file. You can import this file into Postman to explore and test the available endpoints.
 
+## Giving and Getting Token
+
+You should give token on headers section. To get token, send login request. 
+
+## Sending requests as admin
+
+Edit the user isAdmin section as true, and give the users token at headers section to use APIs as admin!
+
+
