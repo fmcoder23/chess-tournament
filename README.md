@@ -57,7 +57,7 @@ This is a Chess Tournament Management System built using Node.js and PostgreSQL.
     npm start
     ```
 
-2. **The server will be running at `http://localhost:3000`.**
+2. **The server will be running at `http://localhost:<PORT>`.**
 
 ## API Documentation
 
